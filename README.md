@@ -1,12 +1,11 @@
-# Spring Boot Todo Application
+# Spring Boot Todo API Server
 
-![spring boot todo application](./screenshot.png)
+This is a small API server for Java Spring Boot.
 
-This is an ENTIRE application for Java Spring Boot
 built using:
+- Spring Web
 - Spring Data JPA
 - H2 Database
-- Thymeleaf
 
 **I walk through how to build this yourself on YouTube**: 
 
