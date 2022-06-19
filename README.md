@@ -7,7 +7,9 @@ built using:
 - Spring Data JPA
 - H2 Database
 
-**I walk through how to build this yourself on YouTube**: 
+**I walk through how to build this yourself on YouTube**:
+- Part 1 - https://youtu.be/9WyNVxtN1hk
+- Part 2 - https://youtu.be/2crQWIFcQMk
 
 ## Development Instructions
 
